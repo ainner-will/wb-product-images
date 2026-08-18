@@ -1,0 +1,12 @@
+{
+  "rows": 139,
+  "uniqueCodes": 139,
+  "minDescriptionLength": 1516,
+  "maxDescriptionLength": 1995,
+  "maxTitleLength": 46,
+  "allTitlesRussianNames": true,
+  "shoeRows": 56,
+  "allShoeSizesCorrect": true,
+  "crossSkuDuplicatePhotos": false,
+  "formulaErrorScan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}"
+}

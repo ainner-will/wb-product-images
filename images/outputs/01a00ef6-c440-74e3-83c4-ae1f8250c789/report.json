@@ -1,0 +1,26 @@
+{
+  "skuFolders": 27,
+  "videoFolders": 0,
+  "imageUrls": 221,
+  "videoUrls": 0,
+  "matchedSkus": 27,
+  "unmatchedSkus": [],
+  "ambiguousSkus": [],
+  "productRows": 139,
+  "uniqueCodes": 139,
+  "allCodesUnique": true,
+  "sheetNames": [
+    "项目",
+    "使用说明"
+  ],
+  "outputPaths": {
+    "uploadPath": "H:\\New project\\wb-product-images\\images\\outputs\\01a00ef6-c440-74e3-83c4-ae1f8250c789\\产品上传表格.xlsx",
+    "mapPath": "H:\\New project\\wb-product-images\\images\\outputs\\01a00ef6-c440-74e3-83c4-ae1f8250c789\\图片URL映射表.xlsx"
+  },
+  "descriptionsUnique": true,
+  "colorsApproved": true,
+  "urlChecks": {
+    "allRaw": true,
+    "noSpaces": true
+  }
+}
