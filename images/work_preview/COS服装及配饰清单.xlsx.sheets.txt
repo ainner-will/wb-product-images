@@ -1,1 +1,0 @@
-{"kind":"sheet","id":"ws/j2ms1w","name":"Sheet1","index":0,"range":"A1:J28","address":"A1:J28"}
