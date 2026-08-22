@@ -1,0 +1,21 @@
+{
+  "rows": 106,
+  "skus": 16,
+  "articlesUnique": 16,
+  "shoeRows": 20,
+  "shoeConversion": true,
+  "maxTitle": 46,
+  "uniqueDescriptions": 16,
+  "descriptionMin": 1733,
+  "descriptionMax": 1814,
+  "imageUrls": 113,
+  "mapRows": 113,
+  "videoUrls": 0,
+  "formulaErrors": 0,
+  "missing": [
+    "ARL-COSTUME",
+    "ARL-COSTUME-WIG",
+    "ARL-WIG-NET",
+    "ARL-SHOES"
+  ]
+}
