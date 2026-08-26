@@ -1,0 +1,211 @@
+[
+  {
+    "sku": "HS-GY-FLAT",
+    "weight": 0.5,
+    "price": 279,
+    "length": 35,
+    "width": 10,
+    "height": 6,
+    "images": 8,
+    "title": "Фен выпрямитель для волос с плоскими пластинами",
+    "descriptionLength": 1761
+  },
+  {
+    "sku": "HS-GY-CURVE",
+    "weight": 0.5,
+    "price": 279,
+    "length": 35,
+    "width": 10,
+    "height": 6,
+    "images": 8,
+    "title": "Фен выпрямитель для волос с изогнутыми пластинами",
+    "descriptionLength": 1653
+  },
+  {
+    "sku": "HS-GY-CRIMP",
+    "weight": 0.5,
+    "price": 279,
+    "length": 35,
+    "width": 10,
+    "height": 6,
+    "images": 8,
+    "title": "Фен выпрямитель для волос для гофре",
+    "descriptionLength": 1770
+  },
+  {
+    "sku": "HS-STEAM-EU",
+    "weight": 0.5,
+    "price": 295,
+    "length": 35,
+    "width": 10,
+    "height": 6,
+    "images": 8,
+    "title": "Паровой фен выпрямитель для волос",
+    "descriptionLength": 1755
+  },
+  {
+    "sku": "HS-CRIMP-5T",
+    "weight": 0.6,
+    "price": 318,
+    "length": 35,
+    "width": 10,
+    "height": 6,
+    "images": 8,
+    "title": "Фен выпрямитель для волос гофре с пятью зубцами",
+    "descriptionLength": 1661
+  },
+  {
+    "sku": "HS-CRIMP-6T",
+    "weight": 0.6,
+    "price": 318,
+    "length": 35,
+    "width": 10,
+    "height": 6,
+    "images": 8,
+    "title": "Фен выпрямитель для волос гофре с шестью зубцами",
+    "descriptionLength": 1674
+  },
+  {
+    "sku": "HS-CRIMP-9T",
+    "weight": 0.6,
+    "price": 318,
+    "length": 35,
+    "width": 10,
+    "height": 6,
+    "images": 8,
+    "title": "Фен выпрямитель для волос гофре с девятью зубцами",
+    "descriptionLength": 1684
+  },
+  {
+    "sku": "HS-CRIMP-FLAT",
+    "weight": 0.6,
+    "price": 318,
+    "length": 35,
+    "width": 10,
+    "height": 6,
+    "images": 8,
+    "title": "Фен выпрямитель для волос с широкой пластиной",
+    "descriptionLength": 1674
+  },
+  {
+    "sku": "HS-LB-FLAT",
+    "weight": 0.6,
+    "price": 302,
+    "length": 30,
+    "width": 4,
+    "height": 3,
+    "images": 0,
+    "title": "Голубой фен выпрямитель для волос с плоскими пластинами",
+    "descriptionLength": 1738
+  },
+  {
+    "sku": "HS-RPK-FLAT",
+    "weight": 0.6,
+    "price": 302,
+    "length": 30,
+    "width": 4,
+    "height": 3,
+    "images": 0,
+    "title": "Розовый фен выпрямитель для волос с плоскими пластинами",
+    "descriptionLength": 1748
+  },
+  {
+    "sku": "HS-OR-FLAT",
+    "weight": 0.6,
+    "price": 302,
+    "length": 30,
+    "width": 4,
+    "height": 3,
+    "images": 0,
+    "title": "Оранжевый фен выпрямитель для волос с плоскими пластинами",
+    "descriptionLength": 1759
+  },
+  {
+    "sku": "HS-LB-CRIMP",
+    "weight": 0.6,
+    "price": 302,
+    "length": 30,
+    "width": 4,
+    "height": 3,
+    "images": 0,
+    "title": "Голубой фен выпрямитель для волос для гофре",
+    "descriptionLength": 1739
+  },
+  {
+    "sku": "HS-RPK-CRIMP",
+    "weight": 0.6,
+    "price": 302,
+    "length": 30,
+    "width": 4,
+    "height": 3,
+    "images": 0,
+    "title": "Розовый фен выпрямитель для волос для гофре",
+    "descriptionLength": 1730
+  },
+  {
+    "sku": "HS-OR-CRIMP",
+    "weight": 0.6,
+    "price": 302,
+    "length": 30,
+    "width": 4,
+    "height": 3,
+    "images": 0,
+    "title": "Оранжевый фен выпрямитель для волос для гофре",
+    "descriptionLength": 1744
+  },
+  {
+    "sku": "KD382-CORDLESS",
+    "weight": 0.9,
+    "price": 2009,
+    "length": 32,
+    "width": 14,
+    "height": 10,
+    "images": 22,
+    "title": "Беспроводной фен выпрямитель расчёска для волос",
+    "descriptionLength": 1695
+  },
+  {
+    "sku": "KD680-EU-KSKIN",
+    "weight": 0.6,
+    "price": 616,
+    "length": 26,
+    "width": 10,
+    "height": 7,
+    "images": 15,
+    "title": "Паровой фен выпрямитель расчёска для волос",
+    "descriptionLength": 1656
+  },
+  {
+    "sku": "HS-BBK-CN",
+    "weight": 0.6,
+    "price": 1102,
+    "length": 32,
+    "width": 10,
+    "height": 7,
+    "images": 21,
+    "title": "Чёрно синий фен выпрямитель расчёска для волос",
+    "descriptionLength": 1653
+  },
+  {
+    "sku": "HS-WH-CN",
+    "weight": 0.6,
+    "price": 1102,
+    "length": 32,
+    "width": 10,
+    "height": 7,
+    "images": 21,
+    "title": "Белый фен выпрямитель расчёска для волос",
+    "descriptionLength": 1772
+  },
+  {
+    "sku": "KD880-PK-CN",
+    "weight": 0.6,
+    "price": 1508,
+    "length": 32,
+    "width": 10,
+    "height": 7,
+    "images": 17,
+    "title": "Розовый фен выпрямитель расчёска для волос",
+    "descriptionLength": 1772
+  }
+]

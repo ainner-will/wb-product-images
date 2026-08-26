@@ -1,0 +1,15 @@
+{
+  "sourceProducts": 19,
+  "skuFolders": 13,
+  "imageUrls": 160,
+  "videoFolderCount": 0,
+  "videoUrlCount": 0,
+  "unmatched": [
+    "HS-LB-FLAT",
+    "HS-RPK-FLAT",
+    "HS-OR-FLAT",
+    "HS-LB-CRIMP",
+    "HS-RPK-CRIMP",
+    "HS-OR-CRIMP"
+  ]
+}
