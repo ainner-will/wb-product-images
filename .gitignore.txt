@@ -1,0 +1,9 @@
+# 临时工作目录
+**/.work_*/
+
+# Node.js 依赖
+**/node_modules/
+
+# 常见临时文件
+*.tmp
+*.log
